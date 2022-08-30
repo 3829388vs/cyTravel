@@ -1,0 +1,7 @@
+{
+  "name": "hotel",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

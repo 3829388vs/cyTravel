@@ -1,0 +1,7 @@
+{
+  "name": "editTic",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

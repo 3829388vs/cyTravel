@@ -1,0 +1,7 @@
+{
+  "name": "recommend",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
